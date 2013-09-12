@@ -1,0 +1,10 @@
+Hi there,
+This is a dummy test file for testing the creation of a file and commiting it on git hub.
+This is preety easy..
+...
+
+...
+
+
+regards
+Taran
